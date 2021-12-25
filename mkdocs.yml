@@ -3,5 +3,5 @@ site_url: https://ivancheban.github.io/my-project/
 nav:
     - Home: index.md
     - About: about.md
-    - My section: new.md
+    - My section: my-section/new.md
 theme: readthedocs
