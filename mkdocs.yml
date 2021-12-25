@@ -4,4 +4,5 @@ nav:
     - Home: index.md
     - About: about.md
     - My section: new.md
-theme: readthedocs
+theme:
+    name: bootstrap
