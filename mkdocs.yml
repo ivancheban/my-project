@@ -5,4 +5,4 @@ nav:
     - About: about.md
     - My section: new.md
 theme:
-    name: bootstrap
+    name: readthedocs
