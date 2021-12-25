@@ -3,4 +3,4 @@ site_url: https://ivancheban.github.io/my-project/
 nav:
     - Home: index.md
     - About: about.md
-theme: material
+theme: readthedocs
