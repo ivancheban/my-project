@@ -1,5 +1,5 @@
 site_name: My MkDocs site
-site_url: https://example.com/
+site_url: https://ivancheban.github.io/my-project/
 nav:
     - Home: index.md
     - About: about.md
