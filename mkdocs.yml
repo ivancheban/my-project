@@ -2,9 +2,11 @@ site_name: Docs site
 site_url: https://example.com/
 nav:
     - Home: 'index.md'
-    - 'User Guide':
+    - User Guide:
         - 'Test': 'test-folder/test.md'
         - 'Test 1': 'test-folder/test1.md'
         - 'Test 2': 'test-folder/test2.md'
     - About:
         - 'About this site': 'about.md'
+theme:
+  name: material
