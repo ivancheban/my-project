@@ -1,4 +1,4 @@
-# My MkDocs
+# My MkDocs Site
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
