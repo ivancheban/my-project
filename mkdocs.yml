@@ -1,7 +1,7 @@
 site_name: Docs site
-site_url: https://example.com/
+site_url: https://ivancheban.github.io/my-project/
 nav:
-    - Home: 'index.md'
+    - Introduction: 'index.md'
     - User Guide:
         - 'Test': 'test-folder/test.md'
         - 'Test 1': 'test-folder/test1.md'

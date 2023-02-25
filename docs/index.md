@@ -1,6 +1,6 @@
-# My MkDocs
+# Introduction
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This is Ivan Cheban's test MkDocs site.
 
 ## Commands
 
