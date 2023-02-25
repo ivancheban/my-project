@@ -10,3 +10,12 @@ nav:
         - 'About this site': 'about.md'
 theme:
   name: material
+  logo: img/logo.svg
+  favicon: img/favicon.ico
+  palette: 
+    scheme: default
+    accent: light blue
+  
+extra_css:
+  - stylesheets/extra.css
+
