@@ -25,7 +25,7 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/ivancheban
-    - icon: fontawesome/brands/LinkedIn
+    - icon: fontawesome/brands/linkedin
       link: https://linkedin.com/in/ivan-cheban-a24b576
   generator: false
 
