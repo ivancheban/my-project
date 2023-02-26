@@ -22,6 +22,11 @@ extra_css:
   - stylesheets/extra.css
 
 extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/ivancheban
+    - icon: fontawesome/brands/LinkedIn
+      link: https://linkedin.com/in/ivan-cheban-a24b576
   generator: false
 
 markdown_extensions:
@@ -34,6 +39,6 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.tabbed:
       alternate_style: true
-
+copyright: Copyright &copy; 2023 Ivan Cheban 
 
 
