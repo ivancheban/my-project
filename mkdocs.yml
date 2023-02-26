@@ -9,6 +9,8 @@ nav:
     - About:
         - 'About this site': 'about.md'
 theme:
+  features:
+    - navigation.footer
   name: material
   logo: img/logo.svg
   favicon: img/favicon.ico
