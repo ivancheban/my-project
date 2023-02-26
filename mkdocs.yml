@@ -19,6 +19,9 @@ theme:
 extra_css:
   - stylesheets/extra.css
 
+extra:
+  generator: false
+
 markdown_extensions:
   - pymdownx.superfences:
       custom_fences:
