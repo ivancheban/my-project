@@ -12,6 +12,7 @@ theme:
   features:
     - navigation.footer
   name: material
+  custom_dir: overrides
   logo: img/logo.svg
   favicon: img/favicon.ico
   palette: 
