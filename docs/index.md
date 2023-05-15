@@ -1,6 +1,6 @@
 # Introduction
 
-This is Ivan Cheban's test MkDocs site. This is version 0.6.
+This is Ivan Cheban's test MkDocs site. This is version 0.7.
 
 !!! note
 
