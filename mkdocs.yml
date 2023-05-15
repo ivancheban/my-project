@@ -29,6 +29,7 @@ plugins:
 extra:
   version:
     provider: mike
+    default: 0.4
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/ivancheban
