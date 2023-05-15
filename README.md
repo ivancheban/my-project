@@ -6,6 +6,12 @@ This is MkDocs Material with versioning using mike.
 
 To publish a new version:
 
+1. Run this command to delete all previous versions of documentation:
+
+    ```sh
+    mike delete --all
+    ```
+
 1. In the project folder, run this command:
 
     ```sh
