@@ -34,7 +34,7 @@ This is Ivan Cheban's test MkDocs site. This is version 0.3.
 
 ## Flow charts
 
-``` mermaid
+```mermaid
 graph LR
   A[Start] --> B{Error?};
   B -->|Yes| C[Hmm...];
@@ -45,7 +45,7 @@ graph LR
 
 ## ERD diagrams
 
-``` mermaid
+```mermaid
 erDiagram
   CUSTOMER ||--o{ ORDER : places
   ORDER ||--|{ LINE-ITEM : contains
@@ -58,7 +58,7 @@ erDiagram
 
 ## Sequence diagrams
 
-``` mermaid
+```mermaid
 sequenceDiagram
   autonumber
   Alice->>John: Hello John, how are you?
