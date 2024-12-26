@@ -54,7 +54,7 @@ markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true
 copyright: >
-  Copyright &copy; 2024 Ivan Cheban
+  Copyright &copy; 2024 Ivan Cheban –
   <a href="#__consent">Change cookie settings</a>
 
 
