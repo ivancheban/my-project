@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://ivancheban.github.io/my-project/0.9/</loc>
+         <lastmod>2024-12-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ivancheban.github.io/my-project/0.9/about/</loc>
+         <lastmod>2024-12-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ivancheban.github.io/my-project/0.9/test-folder/test/</loc>
+         <lastmod>2024-12-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ivancheban.github.io/my-project/0.9/test-folder/test1/</loc>
+         <lastmod>2024-12-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ivancheban.github.io/my-project/0.9/test-folder/test2/</loc>
+         <lastmod>2024-12-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
